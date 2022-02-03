@@ -1,5 +1,5 @@
 # Data-Transformation
-Data transformation through PCA in python.
+Attribute normalization, standardization and dimension reduction of data.
 
 I am given the IIT Mandi landslide data-set as a csv file (landslide_data.csv). This data-set contains the readings from various sensors installed at 10 locations around the IIT Mandi campus. These sensors give the details about various factors like temperature, humidity, pressure etc. The given CSV file contains following attributes:\
 • dates: date of collection of data.\
